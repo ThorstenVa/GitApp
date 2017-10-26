@@ -76,9 +76,10 @@
     </ScrollView>
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:srcCompat="@mipmap/ic_launcher_round"
-        android:layout_weight="0.84" />
+        app:srcCompat="@android:drawable/btn_star_big_on"
+        android:layout_weight="0.81" />
+
 </LinearLayout>
